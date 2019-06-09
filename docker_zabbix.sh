@@ -3,7 +3,7 @@
 # Change these settings
 MYSQL_ROOT_PASSWORD="rootpassword"
 ZABBIX_DB_USER_PASSWORD="zabbixpw"
-SERVER_IP="10.132.0.2"
+SERVER_IP="127.0.0.1"
 
 
 # Deploy a mysql container for zabbix to use.
