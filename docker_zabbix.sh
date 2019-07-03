@@ -3,7 +3,7 @@
 # Change these settings
 MYSQL_ROOT_PASSWORD="rootpassword"
 ZABBIX_DB_USER_PASSWORD="zabbixpw"
-SERVER_IP="192.168.43.109"
+SERVER_IP="10.132.0.2"
 
 # Deploy a mysql container for zabbix to use.
 docker run -d \
